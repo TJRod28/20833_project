@@ -9,3 +9,23 @@ p {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 
 }
+
+header, footer {
+    border-style:solid;
+    border-color: indigo;
+
+
+}
+
+nav {
+    border-style: solid;
+    border-color: darkturquoise;
+    
+
+
+}
+
+main {
+    border-style:solid;
+    border-color:black;
+}
